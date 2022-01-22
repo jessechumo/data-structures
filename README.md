@@ -1,1 +1,1 @@
-# This is a data structures and algorithims course with pyhton
+# This is a data structures and algorithims course.
