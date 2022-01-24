@@ -1,1 +1,1 @@
-# This is a data structures and algorithims course.
+# This is a data structures and algorithims Reporitory.
