@@ -6,12 +6,23 @@
  ### Big O
  >  Big O allows us to talk formally about how the runtime of an algorithm grows as the inputs grow.
 
-- We say that an algorithm is **O(f(n))** if the number of simple operations the computer has to do is eventally less than a constant times **f(n)**, as **n** increases.
+ **Time Complexity**
 
-* f(n) could be linear (f(n)=n)
-* f(n) could be quadratic (f(n)=n<sup>2</sup>)
-* f(n) could be constant (f(n)=1)
-* f(n) could be something entirely different!
+ We say that an algorithm is **O(f(n))** if the number of simple operations the computer has to do is eventally less than a constant times **f(n)**, as **n** increases.
+
+* f(n) could be constant  **O(1)**
+* f(n) could be linear **O(n)**
+* f(n) could be quadratic **O(n<sup>2</sup>)**
+* f(n) could be something entirely different! **O(log n)** , **O(nlog n)** ,
+
+**Big O Rules**
+1. Arithmetic operations are constant.
+2. Variable assignment is constant.
+3. Accessing elements in an array(by index) or object(by key) is constant.
+4. In a loop, the complexity is the length of the loop times the complexity of whatever happens inside the loop.
+
+**Space Complexity**
+
 
 
  
