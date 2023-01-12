@@ -1,6 +1,6 @@
 ## This is a data structures and algorithims Reporitory.
 
- It contains an overview of data structures such as Arrays, Objects,stacks and linkedlists and their basic operations.
+ It contains an overview of data structures such as Arrays, Objects,stacks and linkedlists and their basic operations. 
 
  ***
  ### Big O
@@ -16,7 +16,7 @@
 * f(n) could be something entirely different! **O(log n)** , **O(nlog n)** ,
 
 **Time Complexity Rules**
-1. Arithmetic operations are constant.
+1. Arithmetic operations are constant
 2. Variable assignment is constant.
 3. Accessing elements in an array(by index) or object(by key) is constant.
 4. In a loop, the complexity is the length of the loop times the complexity of whatever happens inside the loop.
